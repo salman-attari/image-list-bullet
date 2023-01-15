@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 251, 0);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  ul.a {
+    list-style: square inside url("images/fb.png");
+  }
+
+  
+  ul.b {
+    list-style: square inside url("images/dot.png");
+  }
